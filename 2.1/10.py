@@ -1,0 +1,6 @@
+name = input()
+id = input()
+print(f"Группа №{id[0]}.")
+print(f"{id[2]}. {name}.")
+print(f"Шкафчик: {id}.")
+print(f"Кроватка: {id[1]}.")
