@@ -1,0 +1,2 @@
+A or C ~ not (A -> B) or C
+
